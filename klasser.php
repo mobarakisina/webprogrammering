@@ -622,6 +622,24 @@ class createDB{
 		$db->close();
 	}
 
+	public function createUtforing(){
+		$db = $this->conn();
+		if($db->connect_error){
+			echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+			trigger_error($db->connect_error);
+		}
+		$sql = "CREATE TABLE `s315754`.`utforing` (`ovelsesid` INT(4) NULL, `utoverid` INT(4) NULL) ENGINE = MyISAM";
+		$result = $db->query($sql);
+		if($result){
+			echo "Tabell opprettet!";
+		}
+		else{
+			echo "Klarte ikke sette tabell inn i database!";
+			trigger_error("Klarte ikke sette inn tabell");
+		}
+		$db->close();
+	}
+
 	public function insertOvelser(){
 		$db = $this->conn();
 		if($db->connect_error){

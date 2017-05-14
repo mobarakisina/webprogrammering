@@ -127,8 +127,8 @@ if(isset($_SESSION['userid'])){
               <label for="kjonn" class="control-label">Velg kjønn</label>
 
               <select class="form-control" id="kjonn" name="klasse">
-                <option value="kvinner">Kvinner</option>
-                <option value="menn">Menn</option>
+                <option value="kvinne">kvinne</option>
+                <option value="mann">Mann</option>
               </select>
 <br/>
               <input type="submit" class="btn btn-primary" name="nyUtover" value="Registrer ny utøver"></button>
@@ -202,7 +202,5 @@ else{
 	echo "Du er ikke logget inn. Vennligst logg inn på en admin-konto.";
 }
 ?>
-<div style="position:fixed; bottom:0; height:50px; background-color:grey; text-align:center;
-width:100%; padding-top:15px;">Denne siden har blitt laget av <strong>Jonas, Karl og Sina</strong>.</div>
 </body>
 </html>
