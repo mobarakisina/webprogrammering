@@ -1388,3 +1388,1023 @@
 
 14-05-2017 19:38 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 325 2 mysqli_error(): Couldn't fetch mysqli
 
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 77 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 77 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 77 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:43 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:44 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:45 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:47 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:58 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 19:59 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:03 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:04 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:07 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 44 1 Call to undefined function visOvelseDrop()
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 46 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 123 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 161 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 196 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 233 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 267 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:27 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 44 1 Call to undefined function visOvelseDrop()
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:28 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 44 1 Call to undefined function visOvelseDrop()
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 499 8 Undefined variable: result
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 499 8 Trying to get property of non-object
+
+14-05-2017 20:29 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 200 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 499 8 Undefined variable: result
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 499 8 Trying to get property of non-object
+
+14-05-2017 20:30 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:32 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:34 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:36 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:37 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:38 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:39 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 365 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 366 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
+
+14-05-2017 20:42 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 201 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+

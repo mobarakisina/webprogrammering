@@ -488,6 +488,42 @@ public function flushPublikum(){
 		echo "Det skjedde en feil!";
 	}
 }
+
+public function visOvelseDrop(){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "SELECT navn FROM ovelser";
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		while($row = $result->fetch_assoc()){
+			echo "
+			<option value = " . $row['navn'] . "> " . $row['navn'] . "</option>";
+		}
+	}
+	else{
+		echo "Fant ingen utøvere i databasen.";
+	}
+
+}
+
+public function slettOvelse($ovelse){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "DELETE FROM ovelser WHERE navn = '$ovelse'";
+	$result = $db->query($sql);
+	if($result){
+		echo "ovelse slettet";
+	}
+	else{
+		echo "Klarte ikke slette ovelse";
+	}
+}
 }
 
 class createDB{

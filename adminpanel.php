@@ -30,6 +30,9 @@ $admin->flushPublikum();
 if(isset($_REQUEST['giveAdmin'])){
   $admin->giveAdmin($db->escape($_REQUEST['newAdmin']));
 }
+if(isset($_REQUEST['slettovelse'])){
+  $admin->slettOvelse($_REQUEST['selectSlett']);
+}
 ?>
 
 <?php
@@ -53,6 +56,7 @@ if(isset($_SESSION['userid'])){
 
           <label for="tid" class="control-label">Tid:</label>
           <input type="text" name="tid" class="form-control" placeholder="00:00"/><br>
+
           <input type="submit" class="btn btn-primary" name="submitnyovelse" value="Registrer ny øvelse"></button>
           </form>
         </div>
@@ -61,10 +65,16 @@ if(isset($_SESSION['userid'])){
 
           <div class="col-sm-6 text-left"><h4>
             Administrative handlinger:</h4>
+            <form>
+            <select name = "selectSlett">
+            <?php $admin->visOvelseDrop(); ?>
+            </select>
+            <input type = "submit" name = "slettovelse" value = "Slett øvelse">
+            </form>
             <p>Endre bruker-privilegier:</p>
             <form action= "" name= "giveadmin" method= "post">
             <p>
-              <input type= "text" name ="newAdmin" placeholder="Bruker ID">
+              <input type= "text" name ="newAdmin" placeholder="Bruker-ID">
             </p>
             <p>
               <input type="submit" class="btn btn-primary custom" name="giveAdmin" value="Gi administrative rettigheter"></button>
