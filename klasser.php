@@ -1,4 +1,4 @@
-<?php 
+<?php
 $ini = parse_ini_file("../../../config.ini");
 class database {
 private $DBhost;
@@ -9,7 +9,7 @@ private $DBname;
 public function __construct(){
 		$this->DBhost = $ini['DBhost'];
 		$this->DBuser = $ini['DBuser'];
-		$this->DBpass = $ini['Bpass'];
+		$this->DBpass = $ini['DBpass'];
 		$this->DBname = 's315754';
 }
 
@@ -20,7 +20,7 @@ public function conn(){
 public function escape($query){
 	return mysqli_real_escape_string($this->conn(), $query);
 }
-	
+
 public function login($email, $passord){
 	$db = $this->conn();
 	if($db->connect_error){
@@ -251,34 +251,6 @@ public function visOvelser(){
 
 }
 
-public function visBrukere(){
-	$db = $this->conn();
-	if($db->connect_error){
-		echo "<script type='text/javascript'>alert('Klarte ikke koble til database. Vennligst prøv igjen senere.')</script>";
-		trigger_error($db->connect_error);
-	}
-	$sql = "SELECT * FROM bruker";
-	$result = $db->query($sql);
-	if($result->num_rows > 0){
-		while($row = $result->fetch_assoc()){
-			echo "
-			<tr>
-			<td> " . $row['fornavn'] . " </td>
-			<td> " . $row['etternavn'] . " </td>
-			<td> " . $row['postnr'] . " </td>
-			<td> " . $row['sted'] . " </td>
-			<td> " . $row['telefonno'] . " </td>
-			<td> " . $row['email'] . " </td>
-			</tr>
-			";
-		}
-	}
-	else{
-		echo "Fant ingen utøvere i databasen.";
-	}
-
-}
-
 public function visUtovere(){
 	$db = $this->conn();
 	if($db->connect_error){
@@ -356,7 +328,7 @@ public function lagreTilskuer(){
 			$rowAmount= $db->affected_rows;
 			if($rowAmount == 0){
 				echo "Kunne ikke sette data inn i database.<br>";
-				trigger_error("Insert return 0 rows");		
+				trigger_error("Insert return 0 rows");
 			}
 		$db->close();
 		header("Location: index.php");
@@ -544,7 +516,7 @@ class createDB{
 		$result= $db->query($sql);
 		if($result){
     		echo "Database created successfully";
-		} 
+		}
 		else {
     		echo "Error creating database: " . $db->error;
 		}
@@ -622,24 +594,6 @@ class createDB{
 		$db->close();
 	}
 
-	public function createUtforing(){
-		$db = $this->conn();
-		if($db->connect_error){
-			echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
-			trigger_error($db->connect_error);
-		}
-		$sql = "CREATE TABLE `s315754`.`utforing` (`ovelsesid` INT(4) NULL, `utoverid` INT(4) NULL) ENGINE = MyISAM";
-		$result = $db->query($sql);
-		if($result){
-			echo "Tabell opprettet!";
-		}
-		else{
-			echo "Klarte ikke sette tabell inn i database!";
-			trigger_error("Klarte ikke sette inn tabell");
-		}
-		$db->close();
-	}
-
 	public function insertOvelser(){
 		$db = $this->conn();
 		if($db->connect_error){
@@ -647,11 +601,11 @@ class createDB{
 			trigger_error($db->connect_error);
 		}
 		$sql = "INSERT INTO `ovelser` (`navn`, `sted`, `dato`, `tid`)";
-		$sql .= "VALUES ('Langrenn, 10 km, herrer', 'Seefeld skiarena', 'Tirsdag 10.12', '13:30'), 
-						('Skihopp, normalbakke, herrer', 'Seefeld hoppbakke', 'Onsdag 11.12', '18:30'), 
-						('Skihopp, lagkonkurranse, mix', 'Seefeld hoppbakke', 'Fredag 13.12', '17:30'), 
-						('Langrenn, stafett, kvinner', 'Seefeld skiarena', 'Fredag 13.12', '12:00'),  
-						('Skiskyting, fellesstart, kvinner', 'Seefeld skiskytterarena', 'Lørdag 14.12', '14:00'), 
+		$sql .= "VALUES ('Langrenn, 10 km, herrer', 'Seefeld skiarena', 'Tirsdag 10.12', '13:30'),
+						('Skihopp, normalbakke, herrer', 'Seefeld hoppbakke', 'Onsdag 11.12', '18:30'),
+						('Skihopp, lagkonkurranse, mix', 'Seefeld hoppbakke', 'Fredag 13.12', '17:30'),
+						('Langrenn, stafett, kvinner', 'Seefeld skiarena', 'Fredag 13.12', '12:00'),
+						('Skiskyting, fellesstart, kvinner', 'Seefeld skiskytterarena', 'Lørdag 14.12', '14:00'),
 						('Skøyter, 5000 m, herrer', 'Seefeld ishall', 'Lørdag 14.12', '19:00')";
 		$result = $db->query($sql);
 		if($result){
