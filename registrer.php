@@ -85,36 +85,85 @@ OK = regEx.test(document.registrer.passord.value);
 </script>
 <body id="registrer">
     <div class="skjema">
-        <form action="" method="post" name="registrer"/>
-          	<table>
-                <th><h3>Registrer deg her:</h3></th>
-                <tr><td>Fornavn:</td>
-                <td><input type="text" name="fornavn" onchange = 'validerFornavn()' placeholder="Fornavn:"/><br></td>
-                <td><div id= "feilFornavn">*</div></td></tr>
-                <tr><td>Etternavn:</td>
-                <td><input type="text" name="etternavn" onchange = 'validerEtternavn()' placeholder="Etternavn:"/><br></td>
-                <td><div id= "feilEtternavn">*</div></td></tr>
-                <tr><td>Postnummer:</td>
-                <td><input type="text" name="postnr" onchange = 'validerPostnr()' placeholder="Postnr"/><br></td>
-                <td><div id= "feilPostnr">*</div></td></tr>
-                <tr><td>Sted:</td>
-                <td><input type= "text" name= "sted" onchange = 'validerSted()' placeholder="Sted"/><br></td>
-                <td><div id= 'feilSted'>*</div></td></tr>
-                <tr><td>Telefonnummer:</td>
-                <td><input type="text" name="telefon" onchange = 'validerTelefon()' placeholder="Telefonnummer (8 tall)"/><br></td>
-                <td><div id= "feilTelefon">*</div></td></tr>
-                <tr><td>E-mail:</td>
-                <td><input type="text" name="email" onchange = 'validerEmail()' placeholder="eksempel@email.com"/><br></td>
-                <td><div id= "feilEmail">*</div></td></tr>
-                <tr><td>Passord:</td>
-                <td><input type="password" name="passord" onchange = 'validerPassord()' placeholder="Minst 8 tegn, en stor bokstav og 1 tall"/><br></td>
-                <td><div id= "feilPassord">*</div></td></tr>
-            </table><br>
-            <div class="buttonHolder">
-				<button onclick="location.href='index.php'" type="button" class="btn btn-danger">Avbryt</button>
-                <input type="submit" value="Registrer" name="submit" class="btn btn-success" id="btn"/>
-            </div>
-        </form>
+<form class="form-horizontal" action="" method="post" name="registrer">
+<fieldset>
+
+<!-- Form Name -->
+<span><h4>Registrer deg her:</h4></span>
+<hr>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="fornavn">Fornavn:</label>
+  <div class="col-md-6">
+  <input id="fornavn" name="fornavn" type="text" placeholder="Fornavn" class="form-control input-md" name="fornavn" onchange = 'validerFornavn()'>
+  </div>
+  <div id= "feilFornavn">*</div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="etternavn">Etternavn:</label>
+  <div class="col-md-6">
+  <input id="etternavn" name="etternavn" type="text" placeholder="Etternavn" class="form-control input-md" onchange = 'validerEtternavn()'>
+  </div>
+  <div id= "feilEtternavn">*</div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="Postnummer">Postnummer</label>
+  <div class="col-md-6">
+  <input id="Postnummer" name="postnr" type="text" placeholder="Eks: '0549' " class="form-control input-md" onchange = 'validerPostnr()'>
+  </div>
+  <div id= "feilPostnr">*</div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="sted">Sted:</label>
+  <div class="col-md-6">
+  <input id="sted" name="sted" type="text" placeholder="Sted" class="form-control input-md" onchange = 'validerSted()'>
+  </div>
+  <div id= 'feilSted'>*</div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="telefonnummer">Telefonnummer</label>
+  <div class="col-md-6">
+  <input id="telefonnummer" name="telefon" type="text" placeholder="F.eks. 22222222" class="form-control input-md" onchange = 'validerTelefon()'>
+  </div>
+  <div id= "feilTelefon">*</div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="email">E-mail:</label>
+  <div class="col-md-6">
+  <input id="email" name="email" type="text" placeholder="F.eks. skivm@mail.com" class="form-control input-md" onchange = 'validerEmail()'>
+  </div>
+  <div id= "feilEmail">*</div>
+</div>
+
+<!-- Password input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="passord">Passord:</label>
+  <div class="col-md-6">
+    <input id="passord" name="passord" type="password" placeholder="xxxxxxxx" class="form-control input-md" onchange = 'validerPassord()'>
+    <span class="help-block">Må inneholde minst åtte tegn, én stor bokstav og ett tall</span>
+  </div>
+  <div id= "feilPassord">*</div>
+</div>
+
+<div class="buttonHolder">
+  <button onclick="location.href='index.php'" type="button" class="btn btn-danger">Avbryt</button>
+  <input type="submit" value="Registrer" name="submit" class="btn btn-success" id="btn"/>
+</div>
+
+</fieldset>
+</form>
+
 			<div id="feilmelding">
             <?php
 			if(isset($_REQUEST['submit'])){
