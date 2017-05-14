@@ -274,3 +274,243 @@
 
 14-05-2017 18:50 /iu/cube/u0/s315754/www/webprogrammering/skivm/program.php 303 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
 
+14-05-2017 18:25 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:25 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:25 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:25 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:28 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:28 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:28 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:28 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:30 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:32 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:32 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:32 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:32 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:33 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:34 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:34 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:34 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:34 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:38 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:38 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:38 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:38 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:49 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:50 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:51 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:53 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:54 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
