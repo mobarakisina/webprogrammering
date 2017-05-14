@@ -46,7 +46,7 @@ if(isset($_REQUEST['btnLogin'])){
 				</ul>
 			</li>
 		<?php
-		}			
+		}
 		else{
 		?>
 		<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Logg inn!<span class="caret"></span></a>

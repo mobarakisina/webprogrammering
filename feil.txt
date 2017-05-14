@@ -922,6 +922,7 @@
 
 14-05-2017 15:40 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 12 8 Undefined variable: ini
 
+<<<<<<< HEAD
 14-05-2017 16:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 10 8 Undefined variable: ini
 
 14-05-2017 16:23 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 11 8 Undefined variable: ini
@@ -1641,4 +1642,323 @@
 14-05-2017 18:25 /iu/cube/u0/s315754/www/webprogrammering/skivm/klasser.php 367 8 Undefined variable: ini
 
 14-05-2017 18:25 /iu/cube/u0/s315754/www/webprogrammering/skivm/adminpanel.php 191 2 mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+=======
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 281 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 282 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 283 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 288 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 295 1024 Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 298 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 299 2 DBtilskuer::lagreTilskuer(): Property access is not allowed yet
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 305 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 308 2 mysqli_error(): Couldn't fetch mysqli
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:03 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 28 1024 Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 32 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 33 2 database::login(): Property access is not allowed yet
+
+14-05-2017 16:05 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 58 2 mysqli::close(): Couldn't fetch mysqli
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 28 1024 Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 32 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 33 2 database::login(): Property access is not allowed yet
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 58 2 mysqli::close(): Couldn't fetch mysqli
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:06 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 16:07 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:18 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:18 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:18 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:18 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:19 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 28 1024 Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 32 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 33 2 database::login(): Property access is not allowed yet
+
+14-05-2017 18:20 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 58 2 mysqli::close(): Couldn't fetch mysqli
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 2 2 parse_ini_file(../../../config.ini): failed to open stream: No such file or directory
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 10 8 Undefined variable: ini
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 11 8 Undefined variable: ini
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 12 8 Undefined variable: ini
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 28 1024 Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 17 2 mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO)
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 21 2 mysqli_real_escape_string(): Couldn't fetch mysqli
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 32 2 mysqli::query(): Couldn't fetch mysqli
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 33 2 database::login(): Property access is not allowed yet
+
+14-05-2017 18:24 /Applications/MAMP/htdocs/Webprogrammering/webprogrammering-2-take/klasser.php 58 2 mysqli::close(): Couldn't fetch mysqli
+>>>>>>> origin/master
 
