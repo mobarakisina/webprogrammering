@@ -216,7 +216,5 @@ else{
 	echo "Du er ikke logget inn. Vennligst logg inn på en admin-konto.";
 }
 ?>
-<div style="position:fixed; bottom:0; height:50px; background-color:grey; text-align:center;
-width:100%; padding-top:15px;">Denne siden har blitt laget av <strong>Jonas, Karl og Sina</strong>.</div>
 </body>
 </html>
