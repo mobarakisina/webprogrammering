@@ -8,7 +8,7 @@ body {
 }
 
 navbar {
-  position: absolute;
+  position: fixed;
   z-index: 999;
 }
 
@@ -56,7 +56,7 @@ Registrer.php
   width: 50%;
   margin-left: auto;
   margin-right: auto;
-  height: 70%;
+  height: 80%;
   border-radius: 10px;
   padding-bottom: 100px;
 }
