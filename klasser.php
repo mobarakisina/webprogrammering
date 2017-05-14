@@ -251,6 +251,34 @@ public function visOvelser(){
 
 }
 
+public function visBrukere(){
+	$db = $this->conn();
+	if($db->connect_error){
+		echo "<script type='text/javascript'>alert('Klarte ikke koble til database. Vennligst prøv igjen senere.')</script>";
+		trigger_error($db->connect_error);
+	}
+	$sql = "SELECT * FROM bruker";
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		while($row = $result->fetch_assoc()){
+			echo "
+			<tr>
+			<td> " . $row['fornavn'] . " </td>
+			<td> " . $row['etternavn'] . " </td>
+			<td> " . $row['postnr'] . " </td>
+			<td> " . $row['sted'] . " </td>
+			<td> " . $row['telefonno'] . " </td>
+			<td> " . $row['email'] . " </td>
+			</tr>
+			";
+		}
+	}
+	else{
+		echo "Fant ingen utøvere i databasen.";
+	}
+
+}
+
 public function visUtovere(){
 	$db = $this->conn();
 	if($db->connect_error){

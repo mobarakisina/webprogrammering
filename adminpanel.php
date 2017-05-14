@@ -107,8 +107,6 @@ if(isset($_SESSION['userid'])){
             <th>Nasjonalitet</th>
             <th>Kjønn</th>
             <th>Slett utøver fra utøverlisten</th>
-        <tbody>
-
           <div class="col-sm-12 text-left" class="form-inline"><h4>Registrer ny utøver:</h4>
             <div class="form-group">
               <form action="" name="nyutover" id="" method="post">
@@ -163,50 +161,38 @@ if(isset($_SESSION['userid'])){
 
         
             </table>
+            </div>
+            </div>
+            </div>
 
 <div class="panel-group" id="accordion11">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion11" href="#collapseEleven"> <strong>Publikum</strong><br></a></h4>
+        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion11" href="#collapseEleven"> <strong>Brukere</strong><br></a></h4>
       </div>
       <div id="collapseEleven" class="panel-collapse collapse">
         <div class="panel-body">
          <div class="panel-group" id="accordion11">
-          <table id="RedigerPublikum">
+          <table id="RedigerBrukere">
             <th>Fornavn</th>
             <th>Etternavn</th>
             <th>Postnr</th>
             <th>Sted</th>
             <th>Telefonnr.</th>
             <th>Email</th>
-            <th>Slett publikum fra publikumslisten</th>
-
-        <tbody>
-        <?php
-            $connect = mysqli_connect('localhost', 'root', '','skivm');
-            if (!$connect) {
-            }
-            $sql = "SELECT * FROM publikum";
-            $results = mysqli_query($connect, $sql);
-            while($row = mysqli_fetch_array($results)) {
-            ?>
-                <tr>
-                <td><?php echo $row['fornavn']?></td>
-                <td><?php echo $row['etternavn']?></td>
-                <td><?php echo $row['postnr']?></td>
-                <td><?php echo $row['sted']?></td>
-                <td><?php echo $row['telefonno']?></td>
-                <td><?php echo $row['email']?></td>
-                <td><?php echo "<td><input type=\"submit\" name=\"submit\" value=\"Slett\" id=\"submit\"></td></tr>";?></td>
-                </tr>
-
             <?php
-            }
-
-            ?>
-             </tbody>
+            $db->visBrukere(); ?>
             </table>
-            <?php
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </table>
+            </div>
+            </div>
+            </div>
+<?php
 }
 	else{
 		echo "Du er ikke admin, og har derfor ikke tilgang til denne siden.";
