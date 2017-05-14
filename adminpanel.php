@@ -3,7 +3,7 @@ require ('navbar.php');
 $admin = new admin();
 if(isset($_POST['nyUtover']))
 {
-$admin->nyUtover($db->escape($_REQUEST['fornavn']), $db->escape($_REQUEST['etternavn']), $db->escape($_REQUEST['idrett']), $db->escape($_REQUEST['nasjonalitet']), $db->escape($_REQUEST['kjonn']));
+$admin->nyUtover($db->escape($_REQUEST['fornavn']), $db->escape($_REQUEST['etternavn']), $db->escape($_REQUEST['idrett']), $db->escape($_REQUEST['nasjonalitet']), $db->escape($_REQUEST['kjonne']));
 }
 
 
@@ -31,7 +31,13 @@ if(isset($_REQUEST['giveAdmin'])){
   $admin->giveAdmin($db->escape($_REQUEST['newAdmin']));
 }
 if(isset($_REQUEST['slettovelse'])){
-  $admin->slettOvelse($_REQUEST['selectSlett']);
+  $admin->slettOvelse($_REQUEST['selectOvelse']);
+}
+if(isset($_REQUEST['slettbruker'])){
+  $admin->slettBruker($_REQUEST['selectBruker']);
+}
+if(isset($_REQUEST['slettUtover'])){
+  $admin->slettUtover($_REQUEST['selectUtover']);
 }
 ?>
 
@@ -66,10 +72,20 @@ if(isset($_SESSION['userid'])){
           <div class="col-sm-6 text-left"><h4>
             Administrative handlinger:</h4>
             <form>
-            <select name = "selectSlett">
+            <select name = "selectOvelse">
             <?php $admin->visOvelseDrop(); ?>
             </select>
             <input type = "submit" name = "slettovelse" value = "Slett øvelse">
+            <br><br>
+            <select name = "selectBruker">
+            <?php $admin->visBrukerDrop(); ?>
+            </select>
+            <input type = "submit" name = "slettbruker" value = "Slett bruker">
+            <br><br>
+             <select name = "selectUtover">
+            <?php $admin->visUtoverDrop(); ?>
+            </select>
+            <input type = "submit" name = "slettUtover" value = "Slett utøver">
             </form>
             <p>Endre bruker-privilegier:</p>
             <form action= "" name= "giveadmin" method= "post">
@@ -112,7 +128,6 @@ if(isset($_SESSION['userid'])){
           <table id="RedigerUtovere">
             <th>Fornavn</th>
             <th>Etternavn</th>
-            <th>Fullt navn</th>
             <th>Idrett</th>
             <th>Nasjonalitet</th>
             <th>Kjønn</th>
@@ -138,9 +153,9 @@ if(isset($_SESSION['userid'])){
 
               <label for="kjonn" class="control-label">Velg kjønn</label>
 
-              <select class="form-control" id="kjonn" name="klasse">
-                <option value="kvinner">Kvinner</option>
-                <option value="menn">Menn</option>
+              <select class="form-control" id="kjonn" name="kjonne">
+                <option value="kvinne">Kvinne</option>
+                <option value="mann">Mann</option>
               </select>
 <br/>
               <input type="submit" class="btn btn-primary" name="nyUtover" value="Registrer ny utøver"></button>
@@ -190,31 +205,6 @@ if(isset($_SESSION['userid'])){
             <th>Telefonnr.</th>
             <th>Email</th>
             <th>Slett publikum fra publikumslisten</th>
-
-        <tbody>
-        <?php
-            $connect = mysqli_connect('localhost', 'root', '','skivm');
-            if (!$connect) {
-            }
-            $sql = "SELECT * FROM publikum";
-            $results = mysqli_query($connect, $sql);
-            while($row = mysqli_fetch_array($results)) {
-            ?>
-                <tr>
-                <td><?php echo $row['fornavn']?></td>
-                <td><?php echo $row['etternavn']?></td>
-                <td><?php echo $row['postnr']?></td>
-                <td><?php echo $row['sted']?></td>
-                <td><?php echo $row['telefonno']?></td>
-                <td><?php echo $row['email']?></td>
-                <td><?php echo "<td><input type=\"submit\" name=\"submit\" value=\"Slett\" id=\"submit\"></td></tr>";?></td>
-                </tr>
-
-            <?php
-            }
-
-            ?>
-             </tbody>
             </table>
             <?php
 }

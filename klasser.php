@@ -394,14 +394,13 @@ public function giveAdmin($userid){
 }
 
 public function nyUtover($fornavn, $etternavn, $idrett, $nasjonalitet, $kjonn){
-	$fulltnavn = $fornavn . " " . $etternavn;
 	$db = $this->conn();
 	if($db->connect_error){
 		echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
 		trigger_error($db->connect_error);
 	}
-	$sql = "INSERT INTO utovere (fornavn, etternavn, fulltnavn, idrett, nasjonalitet, kjonn)";
-	$sql .= "VALUES ('$fornavn', '$etternavn', '$fulltnavn', '$idrett', '$nasjonalitet', '$kjonn')";
+	$sql = "INSERT INTO utovere (fornavn, etternavn, idrett, nasjonalitet, kjonn)";
+	$sql .= "VALUES ('$fornavn', '$etternavn', '$idrett', '$nasjonalitet', '$kjonn')";
 	$result = $db->query($sql);
 	if($result){
 		echo "En ny utøver ble lagt til!";
@@ -504,10 +503,64 @@ public function visOvelseDrop(){
 		}
 	}
 	else{
-		echo "Fant ingen utøvere i databasen.";
+		echo "Fant ingen øvelser i databasen.";
+	}
+}
+
+public function visBrukerDrop(){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "SELECT email FROM bruker";
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		while($row = $result->fetch_assoc()){
+			echo "<option value = " . $row['email'] . "> " . $row['email'] . "</option>";
+		}
+	}
+		else{
+			echo "Fant ingen brukere i databasen.";
+		}
+
+}
+public function visUtoverDrop(){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "SELECT fornavn, etternavn, loperid FROM utovere";
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		while($row = $result->fetch_assoc()){
+			echo "<option value = " . $row['loperid'] . "> " . $row['fornavn'] . " " . $row['etternavn'] .  "</option>";
+		}
+	}
+		else{
+			echo "Fant ingen brukere i databasen.";
+		}
+
+}
+
+public function slettBruker($email){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "DELETE FROM bruker WHERE email = '$email'";
+	$result = $db->query($sql);
+	if($result){
+		echo "Bruker slettet";
+	}
+	else{
+		echo "Klarte ikke slette bruker";
 	}
 
 }
+
 
 public function slettOvelse($ovelse){
 	$db = $this->conn();
@@ -518,14 +571,30 @@ public function slettOvelse($ovelse){
 	$sql = "DELETE FROM ovelser WHERE navn = '$ovelse'";
 	$result = $db->query($sql);
 	if($result){
-		echo "ovelse slettet";
+		echo "Øvelse slettet";
 	}
 	else{
-		echo "Klarte ikke slette ovelse";
+		echo "Klarte ikke slette øvelse";
 	}
 }
+
+public function slettUtover($utover){
+	$db = $this->conn();
+	if($db->connect_error){
+	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
+	    trigger_error($db->connect_error);
+	}
+	$sql = "DELETE FROM utovere WHERE loperid = '$utover'";
+	$result = $db->query($sql);
+	if($result){
+		echo "Utøver slettet";
+	}
+	else{
+		echo "Klarte ikke slette utøver";
+	}
 }
 
+}
 class createDB{
 	//Disse funksjonene ble kjørt via nettsiden for å opprette databasen.
 	//De er ikke lenger inkludert i koden, men vi lar de ligge her.
