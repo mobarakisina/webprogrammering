@@ -46,21 +46,21 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($result)) {
         ?>
             <tr>
-                <td><?php echo $row['navn']?></td> 
+                <td><?php echo $row['navn']?></td>
                 <td><?php echo $row['dato']?></td>
                 <td><?php echo $row['tid']?></td>
-                <td><?php echo $row['sted']?></td>          
+                <td><?php echo $row['sted']?></td>
                 <td><a class="meldpalink" onclick="meldPa('.$_SESSION['userid'].')"><img src="meldpa.png" width="25px" height="20px" name="MeldPaa" alt="MeldPaa" />Meld på</a></td>
-                 
+
 
 
                 <?php if(isset($_SESSION['userid']))
                 { ?>
-                <?php } ?>          
-                <?php if(isset($_SESSION['userid'])){?><td><form> 
+                <?php } ?>
+                <?php if(isset($_SESSION['userid'])){?><td><form>
                     <input type= "submit" name = <?php echo "meld" . $counter; ?> value = "Meld deg på">
                     </form></td>
-                <?php } ?>               
+                <?php } ?>
             </tr>
         <?php
         }
@@ -95,7 +95,7 @@ require ('navbar.php');
     <th> Kjønn </th>
     <?php $db->visUtovere(); ?>
     </table>
-   <br/>        
+   <br/>
 </div>
 </div>
 </div>
@@ -123,7 +123,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['helt navn']?></td> 
+                <td><?php echo $row['helt navn']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -133,7 +133,7 @@ require ('navbar.php');
         </tbody>
     </table>
 
-          
+
 </div>
 </div>
 </div>
@@ -161,7 +161,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['helt navn']?></td> 
+                <td><?php echo $row['helt navn']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -187,7 +187,7 @@ require ('navbar.php');
         <th>Meld på</th>
         <th onclick="sorterTabellLangrenn13(1)">Registrerte publikum</th>
         <tbody>
-        <?php    
+        <?php
         $connect = mysqli_connect('localhost', 'root', '','skivm');
         if (!$connect) {
         }
@@ -196,7 +196,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['land']?></td> 
+                <td><?php echo $row['land']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -205,7 +205,7 @@ require ('navbar.php');
         }
         ?>
         </tbody>
-    </table><br/>         
+    </table><br/>
 </div>
 </div>
 </div>
@@ -233,7 +233,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['land']?></td> 
+                <td><?php echo $row['land']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -258,7 +258,7 @@ require ('navbar.php');
         <th>Meld på</th>
         <th onclick="sorterTabellSkiskyting14(1)">Registrerte publikum</th>
         <tbody>
-        <?php   
+        <?php
         $connect = mysqli_connect('localhost', 'root', '','skivm');
         if (!$connect) {
         }
@@ -267,7 +267,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['helt navn']?></td> 
+                <td><?php echo $row['helt navn']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -275,7 +275,7 @@ require ('navbar.php');
         }
         ?>
         </tbody>
-    </table>          
+    </table>
 </div>
 </div>
 </div>
@@ -303,7 +303,7 @@ require ('navbar.php');
         while($row = mysqli_fetch_array($results)) {
         ?>
             <tr>
-                <td><?php echo $row['helt navn']?></td> 
+                <td><?php echo $row['helt navn']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
                 <td><?php echo $row['nasjonalitet']?></td>
             </tr>
@@ -326,7 +326,7 @@ require ('navbar.php');
       <div id="collapseNineteen" class="panel-collapse collapse">
         <div class="panel-body">
 
-        
+
 
           <div class="panel-group" id="accordion19">
               <table>
@@ -368,7 +368,7 @@ require ('navbar.php');
             </div>
           </div>
 
-         
+
 
         </div>
       </div>
@@ -383,7 +383,7 @@ require ('navbar.php');
       <div id="collapseTwentyone" class="panel-collapse collapse">
         <div class="panel-body">
 
-         
+
 
           <div class="panel-group" id="accordion19">
               <table>
@@ -425,7 +425,7 @@ require ('navbar.php');
             </div>
           </div>
 
-          
+
         </div>
       </div>
     </div>

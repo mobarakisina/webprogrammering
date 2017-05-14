@@ -26,8 +26,7 @@ if(isset($_REQUEST['btnLogin'])){
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<nav class="navbar navbar-default" style="position:fixed;z-index:999;top:0;
-  width: 100%;float:margin-bottom:10px;">
+<nav class="navbar fixed-top" style="background-color:#DCDCDC;height:25px;">
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<a class="navbar-brand" href="index.php">SKI-VM</a>
