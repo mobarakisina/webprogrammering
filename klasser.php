@@ -225,13 +225,30 @@ public function updatePassword($query, $passord){
 	$db->close();
 }
 
-public function visOvelse($ovelse){
+public function visOvelser(){
 	$db = $this->conn();
 	if($db->connect_error){
 		echo "<script type='text/javascript'>alert('Klarte ikke koble til database. Vennligst prøv igjen senere.')</script>";
 		trigger_error($db->connect_error);
 	}
 	$sql = "SELECT * FROM ovelser";
+	$result = $db->query($sql);
+	if($result->num_rows > 0){
+		while($row = $result->fetch_assoc()){
+			echo "
+			<tr>
+			<td> " . $row['navn'] . " </td>
+			<td> " . $row['sted'] . " </td>
+			<td> " . $row['dato'] . " </td>
+			<td> " . $row['tid'] . " </td>
+			</tr>
+			";
+		}
+	}
+	else{
+		echo "Fant ingen utøvere i databasen.";
+	}
+
 }
 
 public function visUtovere(){
@@ -422,27 +439,6 @@ public function nyOvelse($navn, $sted, $dato, $tid){
 	$db->close();
 }
 
-public function nyttStafettlag($land, $nasjonalitet, $idrett, $klasse){
-	$db = $this->conn();
-	if($db->connect_error){
-	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
-	    trigger_error($db->connect_error);
-	}
-	$sql = "INSERT INTO stafettlag (land, nasjonalitet, idrett, klasse)";
-	$sql .= "VALUES ('$land', '$nasjonalitet', '$idrett', '$klasse')";
-	$result = $db->query($sql);
-	if($result){
-		echo "Et nytt lag ble lagt til!";
-	}
-	else{
-		$rowAmount= $db->affected_rows;
-		if($rowAmount == 0){
-			echo "Kunne ikke sette data inn i database.<br>";
-			trigger_error("Insert return 0 rows");
-		}
-	}
-	$db->close();
-}
 
 public function flushUtovere(){
 	$db = $this->conn();
@@ -487,22 +483,6 @@ public function flushPublikum(){
 	$result = $db->query($sql);
 	if($result){
 		echo "Tabellen \"Publikum\" ble tømt!";
-	}
-	else {
-		echo "Det skjedde en feil!";
-	}
-}
-
-public function flushStafettlag(){
-	$db = $this->conn();
-	if($db->connect_error){
-	  	echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
-	    trigger_error($db->connect_error);
-	}
-	$sql= "TRUNCATE TABLE stafettlag";
-	$result = $db->query($sql);
-	if($result){
-		echo "Tabellen \"Stafettlag\" ble tømt!";
 	}
 	else {
 		echo "Det skjedde en feil!";
@@ -596,25 +576,6 @@ class createDB{
 		}
 		$db->close();
 	}
-
-	public function createStafettlag(){
-		$db = $this->conn();
-		if($db->connect_error){
-			echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
-			trigger_error($db->connect_error);
-		}
-		$sql = "CREATE TABLE `s315754`.`stafettlag` ( `lagid` INT NOT NULL AUTO_INCREMENT , `land` VARCHAR(50) NOT NULL , `nasjonalitet` VARCHAR(3) NOT NULL , `idrett` VARCHAR(50) NOT NULL , `klasse` VARCHAR(10) NOT NULL , PRIMARY KEY (`lagid`)) ENGINE = MyISAM";
-		$result = $db->query($sql);
-		if($result){
-			echo "Tabell opprettet!";
-		}
-		else{
-			echo "Klarte ikke sette tabell inn i database!";
-			trigger_error("Klarte ikke sette inn tabell");
-		}
-		$db->close();
-	}
-
 	public function createUtovere(){
 		$db = $this->conn();
 		if($db->connect_error){
@@ -692,33 +653,6 @@ class createDB{
 		}
 		$db->close();
 	}
-
-	/*public function insertStafettlag(){
-		$db = $this->conn();
-		if($db->connect_Error){
-			echo "Klarte ikke koble til database. Vennligst prøv igjen senere.<br>";
-			trigger_error($db->connect_error);
-		}
-		$sql = "INSERT INTO stafettlag (land, nasjonalitet, idrett, klasse)";
-		$sql .= "VALUES ('Norge', 'NOR', 'Skihopp', 'mix'),
-						('Russland', 'RUS', 'Langrenn', 'kvinner'),
-						('Russland 2', 'RUS', 'Langrenn', 'menn'),
-						('Frankrike', 'FRA', 'Langrenn', 'kvinner'),
-						('Østerrike', 'AUS', 'Langrenn', 'kvinner'),
-						('Italia', 'ITA', 'Skihopp', 'mix'),
-						('Sverige', 'SWE', 'Langrenn', 'mix'),
-						('Sverige', 'SWE', 'Skihopp', 'mix')";
-		$result = $db->query($sql);
-		if($result){
-			echo "Tabell opprettet!";
-		}
-		else{
-			echo "Klarte ikke sette tabell inn i database!";
-			trigger_error("Klarte ikke sette inn i tabell");
-		}
-		$db->close();
-	}
-	*/
 
 }
 ?>

@@ -54,6 +54,7 @@ if(isset($_SESSION['userid'])){
           <label for="tid" class="control-label">Tid:</label>
           <input type="text" name="tid" class="form-control" placeholder="00:00"/><br>
           <input type="submit" class="btn btn-primary" name="submitnyovelse" value="Registrer ny øvelse"></button>
+          </form>
         </div>
       </div>
 
@@ -133,33 +134,15 @@ if(isset($_SESSION['userid'])){
               </select>
 <br/>
               <input type="submit" class="btn btn-primary" name="nyUtover" value="Registrer ny utøver"></button>
+                      <?php $db->visUtovere(); ?>
+                      </table>
+                      </form>
+
             </div>
           </div>
           </div>
 
 
-        <?php
-
-      $connect = mysqli_connect('localhost', 'root', '','skivm');
-            if (!$connect) {
-                die(mysqli_error());
-            }
-            $sql = "SELECT * FROM utovere";
-            $result = mysqli_query($connect, $sql);
-            while($row = mysqli_fetch_array($result)) {
-            ?>
-                <tr>
-                <td><?php echo $row['fornavn']?></td>
-                <td><?php echo $row['etternavn']?></td>
-                <td><?php echo $row['helt navn']?></td>
-                <td><?php echo $row['idrett']?></td>
-                <td><?php echo $row['nasjonalitet']?></td>
-                <td><?php echo $row['kjonn']?></td>
-                <td><a class="slettlink" onclick="slettUtover('.$row['fornavn'].')"><img src="slett.png" width="15px" height="15px" name="Slett" alt="Slett" />Slett</a></td>
-                </tr>
-             </tbody>
-            </table>
-            */
 
 <div class="panel-group" id="accordion3">
     <div class="panel panel-default">
@@ -176,24 +159,9 @@ if(isset($_SESSION['userid'])){
             <th>Sted</th>
             <th>Dato</th>
             <th>Tid</th>
-            <th>Slett øvelse fra øvelselisten</th>
+            <?php $db->visOvelser(); ?>
 
-        <tbody>
-        <?php
-            $connect = mysqli_connect('localhost', 'root', '','skivm');
-            if (!$connect) {
-                die(mysqli_error());
-            }
-            $sql = "SELECT * FROM ovelser";
-            $results = mysqli_query($connect, $sql) or die('Query failed: ');
-            while($row = mysqli_fetch_array($results)) {
-            ?>
-
-            <?php
-            }
-            }
-            ?>
-             </tbody>
+        
             </table>
 
 <div class="panel-group" id="accordion11">
@@ -217,10 +185,9 @@ if(isset($_SESSION['userid'])){
         <?php
             $connect = mysqli_connect('localhost', 'root', '','skivm');
             if (!$connect) {
-                die(mysqli_error());
             }
             $sql = "SELECT * FROM publikum";
-            $results = mysqli_query($connect, $sql) or die('Query failed: ');
+            $results = mysqli_query($connect, $sql);
             while($row = mysqli_fetch_array($results)) {
             ?>
                 <tr>
