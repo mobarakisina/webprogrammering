@@ -321,7 +321,7 @@ public function lagreTilskuer(){
 		$sql .= "Values ('$this->fornavn', '$this->etternavn', '$this->postnr', '$this->sted', '$this->telefonno', '$this->email', '$this->salt', '$this->passord', '$this->token')";
 		$result = $db->query($sql);
 		if(!$result){
-			echo "Klarte ikke sette inn i databaseeee.<br>";
+			echo "Klarte ikke sette inn i database.<br>";
 			mysqli_error($db);
 		}
 		else{

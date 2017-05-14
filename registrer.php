@@ -179,9 +179,9 @@ OK = regEx.test(document.registrer.passord.value);
 			?>
 			</div>
     </div>
-
+		
     <div style="position:fixed; bottom:0; height:50px; background-color:grey; text-align:center;
-    width:100%; padding-top:15px;">Denne siden har blitt laget av <strong>Jonas, Karl og Sina</strong>.</div>
+    width:100%;padding-top:15px;">Denne siden har blitt laget av <strong>Jonas, Karl og Sina</strong>.</div>
 </body>
 </html>
 <?php

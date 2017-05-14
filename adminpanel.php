@@ -38,7 +38,7 @@ if(isset($_SESSION['userid'])){
 		<body>
       <div class="container">
         <div class="row vdivide">
-      <div class="col-sm-4 text-left" class="form-inline"><h4>Registrere ny øvelse:</h4>
+      <div class="col-sm-6 text-left" class="form-inline"><h4>Registrere ny øvelse:</h4>
         <div class="form-group">
           <form action="" name="nyovelse" id="" method="post">
 
@@ -59,7 +59,7 @@ if(isset($_SESSION['userid'])){
       </div>
 
 
-          <div class="col-sm-4 text-left"><h4>
+          <div class="col-sm-6 text-left"><h4>
             Administrative handlinger:</h4>
             <p>Endre bruker-privilegier:</p>
             <form action= "" name= "giveadmin" method= "post">
@@ -107,6 +107,8 @@ if(isset($_SESSION['userid'])){
             <th>Nasjonalitet</th>
             <th>Kjønn</th>
             <th>Slett utøver fra utøverlisten</th>
+        <tbody>
+
           <div class="col-sm-12 text-left" class="form-inline"><h4>Registrer ny utøver:</h4>
             <div class="form-group">
               <form action="" name="nyutover" id="" method="post">
@@ -127,8 +129,8 @@ if(isset($_SESSION['userid'])){
               <label for="kjonn" class="control-label">Velg kjønn</label>
 
               <select class="form-control" id="kjonn" name="klasse">
-                <option value="kvinne">kvinne</option>
-                <option value="mann">Mann</option>
+                <option value="kvinner">Kvinner</option>
+                <option value="menn">Menn</option>
               </select>
 <br/>
               <input type="submit" class="btn btn-primary" name="nyUtover" value="Registrer ny utøver"></button>
@@ -159,40 +161,52 @@ if(isset($_SESSION['userid'])){
             <th>Tid</th>
             <?php $db->visOvelser(); ?>
 
-        
+
             </table>
-            </div>
-            </div>
-            </div>
 
 <div class="panel-group" id="accordion11">
     <div class="panel panel-default">
       <div class="panel-heading">
-        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion11" href="#collapseEleven"> <strong>Brukere</strong><br></a></h4>
+        <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion11" href="#collapseEleven"> <strong>Publikum</strong><br></a></h4>
       </div>
       <div id="collapseEleven" class="panel-collapse collapse">
         <div class="panel-body">
          <div class="panel-group" id="accordion11">
-          <table id="RedigerBrukere">
+          <table id="RedigerPublikum">
             <th>Fornavn</th>
             <th>Etternavn</th>
             <th>Postnr</th>
             <th>Sted</th>
             <th>Telefonnr.</th>
             <th>Email</th>
+            <th>Slett publikum fra publikumslisten</th>
+
+        <tbody>
+        <?php
+            $connect = mysqli_connect('localhost', 'root', '','skivm');
+            if (!$connect) {
+            }
+            $sql = "SELECT * FROM publikum";
+            $results = mysqli_query($connect, $sql);
+            while($row = mysqli_fetch_array($results)) {
+            ?>
+                <tr>
+                <td><?php echo $row['fornavn']?></td>
+                <td><?php echo $row['etternavn']?></td>
+                <td><?php echo $row['postnr']?></td>
+                <td><?php echo $row['sted']?></td>
+                <td><?php echo $row['telefonno']?></td>
+                <td><?php echo $row['email']?></td>
+                <td><?php echo "<td><input type=\"submit\" name=\"submit\" value=\"Slett\" id=\"submit\"></td></tr>";?></td>
+                </tr>
+
             <?php
-            $db->visBrukere(); ?>
+            }
+
+            ?>
+             </tbody>
             </table>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </table>
-            </div>
-            </div>
-            </div>
-<?php
+            <?php
 }
 	else{
 		echo "Du er ikke admin, og har derfor ikke tilgang til denne siden.";
