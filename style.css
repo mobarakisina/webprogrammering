@@ -2,16 +2,15 @@
 Navbar.php
 */
 
-body {
-  margin:0px;
-  padding-top: 30px;
+navbar {
+  background-color: grey;
 }
 
-navbar {
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
+body {
+  margin-top: -10px;
 }
+
+
 
 /*
 index.php
